@@ -1,2 +1,2 @@
-# Recipe_generator
+# Recipe Generator
 Generating recipes based off what food you have in
