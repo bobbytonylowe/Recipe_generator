@@ -1,2 +1,2 @@
-# Recipe Generator
-Generating recipes based off what food you have in
+# Food waste reduction recipe generator model
+o	Proprietary code using Python’s streamlit to create an interactive web application, that helps to eliminate food waste by suggesting recipes based off what ingredients you already have at home. The model uses a machine learning algorithm to classify what cuisine each recipe is and lets users specify dietary requirements, allergies and preferred cuisine 
